@@ -6,7 +6,6 @@ Who
 
 * Alpine Data Labs http://alpinedatalabs.com - primary project manager
 * Pivotal Inc. http://gopivotal.com - primary sponsor
-* Nitin Borwankar http://twitter.com/nitin - primary developer
 
 What
 ----

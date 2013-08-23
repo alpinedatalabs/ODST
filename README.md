@@ -1,11 +1,12 @@
 Open Data Science Training
 ==========================
 
-Who
+Sponsored & Developed By:
 ---
 
-* Alpine Data Labs http://alpinedatalabs.com - primary project manager
-* Pivotal Inc. http://gopivotal.com - primary sponsor
+* Alpine Data Labs http://alpinedatalabs.com
+* Pivotal Inc. http://gopivotal.com
+* Nitin Borwankar https://github.com/nborwankar
 
 What
 ----
@@ -15,10 +16,10 @@ What
 
 The initial beta release consists of four major topics
 
-* Linear Regression
-* Logistic Regression
-* Random Forests
-* K-Means Clustering
+* Linear Regression - making predictions about real-world quantities
+* Logistic Regression - resolving questions with binary or yes/no outcomes
+* Random Forests - handling data where the number of variables is very high
+* K-Means Clustering - discovering natural groupings or segments in  data
 
 Each of the above has at least three IPython Notebooks covering
 
@@ -27,8 +28,6 @@ Each of the above has at least three IPython Notebooks covering
 * Analysis (using the technique to get results)
 
 One or more of these may have supplementary material.
-Each of these have worksheets that contain mostly the code sections so you can iteratively explore the 
-
 
 
 Three openly available data sets are used.  
@@ -41,10 +40,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Why
 ---
 
-There's a need for open content to raise the level of awareness and training in basics, in the Data Science
-field (circa early 2013).
+There's a need for open content to raise the level of awareness and training in Data Science fundamentals.
 
-IPython Notebook provides an appropriate platform for rapid iterative exploration and learning.
+The IPython Notebook format provides an appropriate platform for rapid iterative exploration and learning.
 
 When
 ----
@@ -54,7 +52,7 @@ Starting in 2013 and intended to extend for a long while.
 Where
 -----
 
-Today github, tomorrow the world. 
+Today GitHub, tomorrow the world. 
 
 
 IPython Notebooks at beta
@@ -76,8 +74,10 @@ IPython Notebooks at beta
 * WA1. Linear Regression Overview Worksheet.ipynb
 * WA2. Linear Regression - Data Exploration - Lending Club Worksheet.ipynb
 * WA3. Linear Regression - Analysis Worksheet.ipynb
+* WA4. Linear Regression - Data Cleanup.ipynb
 * WB3. Logistic Regression - Analysis- Worksheet.ipynb
 * WC3. Random Forests - Analysis - Worksheet.ipynb
+* WC4. Random Forests - Data Cleanup.ipynb
 * WD2. K-Means Clustering - Data Exploration-Worksheet.ipynb
 * WD3. K-Means Clustering Analysis - Worksheet.ipynb
 * Z0. A quick tour of the IPython notebook.ipynb

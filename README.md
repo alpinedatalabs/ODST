@@ -4,7 +4,7 @@ Open Data Science Training
 Sponsored & Developed By:
 ---
 
-* Alpine Data Labs http://alpinedatalabs.com
+* Alpine Data Labs http://alpinenow.com
 * Pivotal Inc. http://gopivotal.com
 * Nitin Borwankar https://github.com/nborwankar
 
@@ -19,7 +19,7 @@ The initial beta release consists of four major topics
 * Linear Regression - making predictions about real-world quantities
 * Logistic Regression - resolving questions with binary or yes/no outcomes
 * Random Forests - handling data where the number of variables is very high
-* K-Means Clustering - discovering natural groupings or segments in  data
+* K-Means Clustering - discovering natural groupings or segments in data
 
 Each of the above has at least three IPython Notebooks covering
 
